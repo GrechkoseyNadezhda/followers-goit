@@ -1,0 +1,43 @@
+.tweets,
+.followers,
+.name {
+  margin: 0;
+  font-size: 24px;
+  line-height: calc(29 / 24);
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ebd8ff;
+}
+
+.tweets,
+.name {
+  margin-bottom: 20px;
+}
+
+.icon {
+  position: relative;
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+  box-shadow: rgb(0 0 0 / 6%) 0px 5.11111px 5.11111px,
+    rgb(174 123 227) 0px -2.55556px 5.11111px inset,
+    rgb(251 248 255) 0px 5.11111px 3.83333px inset;
+  border-radius: 50%;
+  background-image: radial-gradient(rgb(174, 123, 227), rgb(251, 248, 255));
+  margin-bottom: 32px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconImg {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+}

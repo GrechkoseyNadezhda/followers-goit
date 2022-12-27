@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user": "Ant Main",
+    "tweets": 774,
+    "followers": 720932,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923681338629645155/2C7C4398762302A9289C99F52206BC701E11DF16/",
+    "isFollow": false
+  },
+  {
+    "id": 2,
+    "user": "Thor",
+    "tweets": 531,
+    "followers": 426887,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923681338629662607/2E054CFA4779BAFC24F608000711E3EBE1A4FB89/",
+    "isFollow": false
+  },
+  {
+    "id": 3,
+    "user": "Iron Man",
+    "tweets": 278,
+    "followers": 135065,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923680909726237743/6AAFE4297151717B305C3EDD868E10164EB48BFC/",
+    "isFollow": false
+  },
+  {
+    "id": 4,
+    "user": "Captain America",
+    "tweets": 377,
+    "followers": 232057,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923681338628979078/C1958B0EDCFE85BE3833FB4F51D93625D22B4428/",
+    "isFollow": false
+  },
+  {
+    "id": 5,
+    "user": "Black Widow",
+    "tweets": 376,
+    "followers": 525325,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/921428922390594935/BFE244B35F7515F37A001EB2BC397D05F0030548/",
+    "isFollow": false
+  },
+  {
+    "id": 6,
+    "user": "Star Lord",
+    "tweets": 954,
+    "followers": 536386,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/921428922390547674/A6567DA50D4C41A3831FB6B8DF5C146930D4A06A/",
+    "isFollow": false
+  },
+  {
+    "id": 7,
+    "user": "Hulk",
+    "tweets": 410,
+    "followers": 652516,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/921428922390571367/974AE47A733BB9A5FF6A26C40EA8573D6D68489A/",
+    "isFollow": false
+  },
+  {
+    "id": 8,
+    "user": "Doctor Strange",
+    "tweets": 819,
+    "followers": 241296,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923681227274855597/501B6643506348CF6A2AD17F3FD82ACE686A52F8/",
+    "isFollow": false
+  },
+  {
+    "id": 9,
+    "user": "Spider Man",
+    "tweets": 612,
+    "followers": 421620,
+    "avatar": "https://steamuserimages-a.akamaihd.net/ugc/923681338628891766/1D3001718EFA884BB44B730FEB30A30BDDC8615E/",
+    "isFollow": false
+  }
+]
