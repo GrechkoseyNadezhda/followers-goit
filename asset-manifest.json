@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/followers-goit/static/css/main.1e6bde94.css",
+    "main.js": "/followers-goit/static/js/main.5a8651ce.js",
+    "static/media/bg.png": "/followers-goit/static/media/bg.b02ab9a644c4f7f0bd41.png",
+    "index.html": "/followers-goit/index.html",
+    "main.1e6bde94.css.map": "/followers-goit/static/css/main.1e6bde94.css.map",
+    "main.5a8651ce.js.map": "/followers-goit/static/js/main.5a8651ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6bde94.css",
+    "static/js/main.5a8651ce.js"
+  ]
+}
